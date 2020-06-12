@@ -1,9 +1,54 @@
 ## The name “Quantum GIS” has no special meaning except that it starts with a “Q”, indicating that it uses the Qt library.
+## To use the LAStools with QGIS on Ubuntu -- 
+https://rapidlasso.com/2014/10/04/using-lastools-on-mac-os-x-with-wine/
+https://github.com/rapidlasso/LAStoolsPluginQGIS3
+Open LIDAR DATA - https://cogp.maps.arcgis.com/apps/webappviewer/index.html?id=ab27788612864b5c8fe826a0d073b87f
+#
+
 
 
 
 https://www.qgis.org/en/site/forusers/alldownloads.html
 #
+
+QGIS version: 3.12.3-București
+QGIS code revision: 8234261527
+Qt version: 5.9.5
+GDAL version: 3.0.4
+GEOS version: 3.8.0-CAPI-1.13.1 
+PROJ version: Rel. 7.0.0, March 1st, 2020
+Processing algorithm…
+Algorithm 'lasview' starting…
+Input parameters:
+{ 'ADDITIONAL_OPTIONS' : '', 'COLORING' : 0, 'GUI' : True, 'INPUT_LASLAZ' : '/home/dhankar/_dc_all/QGIS_2020/py_qgis_2020/LAStools/data/fusa.laz', 'POINTS' : 5000000, 'SIZE' : 0, 'VERBOSE' : True }
+
+LAStools command line
+C:\LAStools/bin/lasview -v -gui -i "/home/dhankar/_dc_all/QGIS_2020/py_qgis_2020/LAStools/data/fusa.laz" -points 5000000
+LAStools console output
+/bin/sh: 1: C:LAStools/bin/lasview: not found
+
+Execution completed in 0.24 seconds
+Results:
+{'': None}
+
+Loading resulting layers
+Algorithm 'lasview' finished
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (base) dhankar@dhankar-1:~/_dc_all/QGIS_2020/py_qgis_2020$ 
 (base) dhankar@dhankar-1:~/_dc_all/QGIS_2020/py_qgis_2020$ sudo apt-get install gnupg software-properties-common
 [sudo] password for dhankar: 
