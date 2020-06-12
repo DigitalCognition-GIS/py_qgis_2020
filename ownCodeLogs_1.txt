@@ -1,0 +1,147 @@
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+[sudo] password for dhankar: 
+ Unstable releases of Ubuntu GIS packages. These releases are more bleeding edge and while generally they should work well, they dont receive the same amount of quality assurance as our stable releases do.
+ More info: https://launchpad.net/~ubuntugis/+archive/ubuntu/ubuntugis-unstable
+Press [ENTER] to continue or Ctrl-c to cancel adding it.
+
+Hit:1 http://dl.google.com/linux/chrome/deb stable InRelease
+Hit:3 http://ppa.launchpad.net/apandada1/brightness-controller/ubuntu bionic InRelease                                                       
+Hit:4 https://repo.skype.com/deb stable InRelease                                                                                            
+Hit:5 http://ppa.launchpad.net/cybermax-dexter/sdl2-backport/ubuntu bionic InRelease                                                         
+Hit:6 http://ppa.launchpad.net/kxstudio-debian/libs/ubuntu bionic InRelease                                                                  
+Hit:7 http://ppa.launchpad.net/kxstudio-debian/music/ubuntu bionic InRelease                                                                 
+Get:8 http://packages.microsoft.com/repos/vscode stable InRelease [3,959 B]                                                                  
+Hit:9 http://ppa.launchpad.net/kxstudio-debian/plugins/ubuntu bionic InRelease                                                               
+Get:10 http://packages.microsoft.com/repos/vscode stable/main amd64 Packages [184 kB]                                                        
+Hit:11 http://ppa.launchpad.net/kxstudio-debian/apps/ubuntu bionic InRelease                                                                 
+Hit:12 http://ppa.launchpad.net/kxstudio-debian/kxstudio/ubuntu bionic InRelease                                                             
+Hit:13 http://ppa.launchpad.net/mixxx/mixxx/ubuntu bionic InRelease                                                                          
+Get:14 http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu bionic InRelease [20.8 kB]                                               
+Get:15 http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu bionic/main i386 Packages [73.3 kB]                                      
+Get:16 http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu bionic/main amd64 Packages [73.3 kB]                                     
+Hit:17 http://in.archive.ubuntu.com/ubuntu bionic InRelease                                                                                  
+Get:18 http://in.archive.ubuntu.com/ubuntu bionic-updates InRelease [88.7 kB]                                                                
+Get:19 http://in.archive.ubuntu.com/ubuntu bionic-backports InRelease [74.6 kB]                                                              
+Get:20 http://in.archive.ubuntu.com/ubuntu bionic-updates/main i386 Packages [694 kB]                                                        
+Get:21 http://in.archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages [969 kB]                                                       
+Get:22 http://in.archive.ubuntu.com/ubuntu bionic-updates/main amd64 DEP-11 Metadata [306 kB]                                                
+Get:23 http://in.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages [1,081 kB]                                                 
+Get:24 http://in.archive.ubuntu.com/ubuntu bionic-updates/universe i386 P
+t:10 http://packages.microsoft.com/repos/vscode stable/main amd64 Packages [184 kB]                                                        
+Hit:11 http://ppa.launchpad.net/kxstudio-debian/apps/ubuntu bionic InRelease                                                                 
+Hit:12 http://ppa.launchpad.net/kxstudio-debian/kxstudio/ubuntu bionic InRelease                                                             
+Hit:13 http://ppa.launchpad.net/mixxx/mixxx/ubuntu bionic InRelease                                                                          
+Get:14 http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu bionic InRelease [20.8 kB]                                               
+Get:15 http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu bionic/main i386 Packages [73.3 kB]                                      
+Get:16 http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu bionic/main amd64 Packages [73.3 kB]                                     
+Hit:17 http://in.archive.ubuntu.com/ubuntu bionic InRelease                                                                                  
+Get:18 http://in.archive.ubuntu.com/ubuntu bionic-updates InRelease [88.7 kB]                                                                
+Get:19 http://in.archive.ubuntu.com/ubuntu bionic-backports InRelease [74.6 kB]                                                              
+Get:20 http://in.archive.ubuntu.com/ubuntu bionic-updates/main i386 Packages [694 kB]                                                        
+Get:21 http://in.archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages [969 kB]                                                       
+Get:22 http://in.archive.ubuntu.com/ubuntu bionic-updates/main amd64 DEP-11 Metadata [306 kB]                                                
+Get:23 http://in.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages [1,081 kB]                                                 
+Get:24 http://in.archive.ubuntu.com/ubuntu bionic-updates/universe i386 Packages [1,018 kB]                                                  
+Get:25 http://in.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 DEP-11 Metadata [279 kB]                                            
+Get:26 http://in.archive.ubuntu.com/ubuntu bionic-updates/multiverse amd64 DEP-11 Metadata [2,468 B]                                         
+Get:27 http://in.archive.ubuntu.com/ubuntu bionic-backports/universe amd64 DEP-11 Metadata [7,964 B]                                         
+Get:28 http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu bionic/main Translation-en [31.2 kB]                                     
+Hit:29 https://dl.winehq.org/wine-builds/ubuntu bionic InRelease                                                                             
+Ign:30 https://kx.studio/repo stable InRelease                                                                                               
+Ign:31 https://kx.studio/repo gcc5 InRelease                                                                                                 
+Hit:32 https://kx.studio/repo stable Release                                                                                                 
+Hit:34 https://kx.studio/repo gcc5 Release                                                                                                   
+Hit:2 https://packagecloud.io/slacktechnologies/slack/debian jessie InRelease                                                                
+Err:36 http://security.ubuntu.com/ubuntu bionic-security InRelease
+  Could not resolve 'security.ubuntu.com'
+Fetched 4,907 kB in 35s (140 kB/s)    
+Reading package lists... Done
+W: Failed to fetch http://security.ubuntu.com/ubuntu/dists/bionic-security/InRelease  Could not resolve 'security.ubuntu.com'
+W: Some index files failed to download. They have been ignored, or old ones used instead.
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ 
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ sudo apt-get update
+Hit:1 http://in.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:2 http://in.archive.ubuntu.com/ubuntu bionic-updates InRelease                                                                           
+Hit:3 http://in.archive.ubuntu.com/ubuntu bionic-backports InRelease                                                                         
+Hit:4 http://dl.google.com/linux/chrome/deb stable InRelease                                                                                 
+Hit:5 http://ppa.launchpad.net/apandada1/brightness-controller/ubuntu bionic InRelease                                                       
+Ign:6 https://kx.studio/repo stable InRelease                                                                                                
+Ign:7 https://kx.studio/repo gcc5 InRelease                                                                                                  
+Hit:8 http://ppa.launchpad.net/cybermax-dexter/sdl2-backport/ubuntu bionic InRelease                                                         
+Hit:9 https://kx.studio/repo stable Release                                                                                                  
+Hit:11 https://kx.studio/repo gcc5 Release                                                                                                   
+Hit:13 http://ppa.launchpad.net/kxstudio-debian/libs/ubuntu bionic InRelease                                                                 
+Hit:14 http://ppa.launchpad.net/kxstudio-debian/music/ubuntu bionic InRelease                                                                
+Hit:15 http://ppa.launchpad.net/kxstudio-debian/plugins/ubuntu bionic InRelease                                                              
+Hit:16 http://ppa.launchpad.net/kxstudio-debian/apps/ubuntu bionic InRelease                                                                 
+Hit:17 http://ppa.launchpad.net/kxstudio-debian/kxstudio/ubuntu bionic InRelease                                                             
+Hit:18 http://ppa.launchpad.net/mixxx/mixxx/ubuntu bionic InRelease                                                                          
+Hit:19 http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu bionic InRelease                                                         
+Get:20 http://security.ubuntu.com/ubuntu bionic-security InRelease [88.7 kB]                                                                 
+Get:21 http://security.ubuntu.com/ubuntu bionic-security/main Translation-en [236 kB]                                                        
+Get:22 http://security.ubuntu.com/ubuntu bionic-security/main amd64 DEP-11 Metadata [43.8 kB]                                                
+Get:23 http://security.ubuntu.com/ubuntu bionic-security/universe Translation-en [223 kB]                                                    
+Get:24 http://security.ubuntu.com/ubuntu bionic-security/universe amd64 DEP-11 Metadata [49.2 kB]                                            
+Get:25 http://security.ubuntu.com/ubuntu bionic-security/multiverse amd64 DEP-11 Metadata [2,464 B]                                          
+Hit:26 https://dl.winehq.org/wine-builds/ubuntu bionic InRelease                                                                             
+Hit:27 https://repo.skype.com/deb stable InRelease                                                                                           
+Hit:28 https://packagecloud.io/slacktechnologies/slack/debian jessie InRelease                                                               
+Hit:29 http://packages.microsoft.com/repos/vscode stable InRelease   
+Fetched 643 kB in 25s (26.2 kB/s)
+Reading package lists... Done
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ wget -O - https://qgis.org/downloads/qgis-2017.gpg.key | gpg --import
+--2020-06-11 22:36:19--  https://qgis.org/downloads/qgis-2017.gpg.key
+Resolving qgis.org (qgis.org)... 104.27.139.220, 172.67.167.146, 104.27.138.220, ...
+Connecting to qgis.org (qgis.org)|104.27.139.220|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1944 (1.9K) [application/pgp-keys]
+Saving to: ‘STDOUT’
+
+-                                   100%[=================================================================>]   1.90K  --.-KB/s    in 0s      
+
+2020-06-11 22:36:22 (25.4 MB/s) - written to stdout [1944/1944]
+
+gpg: key CAEB3DC3BDF7FB45: 1 signature not checked due to a missing key
+gpg: key CAEB3DC3BDF7FB45: public key "QGIS Archive Automatic Signing Key (2017) <qgis-developer@lists.osgeo.org>" imported
+gpg: Total number processed: 1
+gpg:               imported: 1
+gpg: no ultimately trusted keys found
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ gpg --fingerprint CAEB3DC3BDF7FB45
+pub   rsa2048 2017-08-16 [SC] [expired: 2019-08-16]
+      61E0 A086 749E 463E DE50  2255 CAEB 3DC3 BDF7 FB45
+uid           [ expired] QGIS Archive Automatic Signing Key (2017) <qgis-developer@lists.osgeo.org>
+
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ gpg --export --armor CAEB3DC3BDF7FB45 | sudo apt-key add -
+OK
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ 
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ sudo gedit /etc/apt/sources.list
+
+** (gedit:18596): WARNING **: 22:39:09.058: Set document metadata failed: Setting attribute metadata::gedit-spell-language not supported
+
+** (gedit:18596): WARNING **: 22:39:09.058: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:18596): WARNING **: 22:39:11.141: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ 
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ sudo apt install qgis python-qgis
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+Some packages could not be installed. This may mean that you have
+requested an impossible situation or if you are using the unstable
+distribution that some required packages have not yet been created
+or been moved out of Incoming.
+The following information may help to resolve the situation:
+
+The following packages have unmet dependencies:
+ python-qgis : Depends: python-qgis-common (= 2.18.28+dfsg-1~bionic3) but it is not going to be installed
+               Depends: libqgispython2.18.28 but it is not going to be installed
+               Depends: libqgis-analysis2.18.28 (>= 2.14.0) but it is not going to be installed
+               Depends: libqgis-core2.18.28 (>= 2.18.28) but it is not going to be installed
+               Depends: libqgis-gui2.18.28 (>= 2.18.17) but it is not going to be installed
+               Depends: libqgis-networkanalysis2.18.28 (>= 2.14.0) but it is not going to be installed
+               Depends: libqgis-server2.18.28 (>= 2.18.21) but it is not going to be installed
+E: Unable to correct problems, you have held broken packages.
+(base) dhankar@dhankar-1:~/_dc_all/QGIS_2020$ sudo apt install qgis python-qgis
+
+
+
