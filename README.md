@@ -24,8 +24,14 @@
 ### References - Work in Progress
 
 ### Cellular Automata Technique for Urban Growth Simulation   
-- Source URL - https://www.youtube.com/watch?v=CPe7bfYOntQ
 - [X] `QGIS-Cellular Automata` 
+
+- Source URL - https://www.youtube.com/watch?v=CPe7bfYOntQ
+
+- A Cellular Automata Land-Use Model For The R Software Environment
+- Source URL - https://www.youtube.com/watch?v=iSZJNPm2UPY
+
+
 
 <br/>
 
