@@ -32,11 +32,22 @@ py_qgis_2020
 
 - DataSet Citation -- DOI: 10.17632/8thw5fb2t3.1  
 
+- QGIS Delhi raster Image - Copyright of the source sited above - https://ars.els-cdn.com/content/image/1-s2.0-S0264275118303871-ga1_lrg.jpg  
+
 - QGIS_GEE_GoogleEarthEngine_Plugin_2020-06-14 18-27-47.png
 
 
 
 <br/>
+
+### GDAL 
+
+> GDAL is a translator library for raster and vector geospatial data formats that is released under an X/MIT style Open Source License by the Open Source Geospatial Foundation. As a library, it presents a single raster abstract data model and single vector abstract data model to the calling application for all supported formats. It also comes with a variety of useful command line utilities for data translation and processing. The NEWS page describes the May 2020 GDAL/OGR 3.1.0 release.
+
+- Source URL - https://gdal.org/
+
+<br/>
+
 
 Rohit Dhankar - https://www.linkedin.com/in/rohitdhankar/
 
