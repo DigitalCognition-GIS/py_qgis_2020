@@ -1,15 +1,12 @@
-# py_qgis_2020
-py_qgis_2020
-
 
 <p align="center">
-    <img src="https://github.com/DigitalCognition-GIS/py_qgis_2020/blob/master/ScreenCaptures_QGIS/Geospatial_Quadrants-2.jpg" width= "150px">
+    <img src="https://github.com/DigitalCognition-GIS/py_qgis_2020/blob/master/ScreenCaptures_QGIS/Geospatial_Quadrants-2.jpg" width= "350px">
 </p>
-<h1 align="center">QGIS with Python Support - OpenSource GeoSpatial for Good</h1>
+<h1 align="center">QGIS with Python - GeoSpatial for Good</h1>
 
 >This repository will contain both code and additional eading material refrences for QGIS(Quantum GIS) with Python support and some of the prominent GeoSpatial and LiDAR data related analytics. **- QGIS 2020**
  
-> Are you a QGIS developer or a GeoSpatial Scientist - kindly feel to contribute. 
+> Are you a QGIS developer or a GeoSpatial Scientist - kindly feel free to contribute. 
 
 
 <br/>
@@ -20,11 +17,11 @@ py_qgis_2020
 - [X] `QGIS-RasterData` 
 - [X] `QGIS-VectorData` 
 - [X] `QGIS-GoogleEarthEngine` 
-- [X] `QGIS-others` 
+- [X] `QGIS-GDAL` 
 
 <br/>
 
-### References - WIP
+### References - Work in Progress
 
 ### Delhi Raster Data  - Source - Data for: Monitoring and Modeling of Spatio-Temporal Urban Growth of Delhi, India using Cellular Automata and Geoinformatics   
 
