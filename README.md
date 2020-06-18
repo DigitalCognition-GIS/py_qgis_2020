@@ -23,6 +23,12 @@
 
 ### References - Work in Progress
 
+### Cellular Automata Technique for Urban Growth Simulation   
+- Source URL - https://www.youtube.com/watch?v=CPe7bfYOntQ
+- [X] `QGIS-Cellular Automata` 
+
+<br/>
+
 ### Delhi Raster Data  - Source - Data for: Monitoring and Modeling of Spatio-Temporal Urban Growth of Delhi, India using Cellular Automata and Geoinformatics   
 
 - Source URL - https://data.mendeley.com/datasets/8thw5fb2t3/1   
