@@ -37,10 +37,20 @@ for field in vectorLyr2.fields():
     print(field.name()) #id Integer64
     print(field.typeName()) # PATH String
 
+## https://qgis.org/pyqgis/3.4/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer.isEditable
+#commitChanges()
+print("vectorLyr2_commitChanges-----------AA--")
+vectorLyr2.commitChanges()
+print("vectorLyr2_commitChanges-----------BB--")
+
+
+
+
+
 ### Source == https://docs.qgis.org/3.4/pdf/en/QGIS-3.4-PyQGISDeveloperCookbook-en.pdf
-layer_active = iface.activeLayer()
-layer_active_features = layer_active.getFeatures()
-print(layer_active_features)
+# layer_active = iface.activeLayer()
+# layer_active_features = layer_active.getFeatures()
+# print(layer_active_features)
 # Below Error in the QGIS Python Console - as we had a RASTER Layer as the ACtive Layer - we need a VECTOR Layer instead..
 """
 Traceback (most recent call last):
