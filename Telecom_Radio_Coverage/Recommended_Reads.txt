@@ -1,0 +1,61 @@
+Recommended Readings -
+Shared by Dr Dhritiraj Sengupta ( PHD) -- ERCEG (SUI) -- http://www.xirio-online.com/help/en/sui.html
+#
+# Googled by Rohit Dhankar -- In no special Order of prefrence...
+#
+Radio Coverage Calculations of Terrestrial Wireless Networks using an Open-Source GRASS System -- 
+http://www.wseas.us/e-library/transactions/communications/2010/88-403.pdf
+#
+Comparison of Okumura, Hata and COST-231 Models on the Basis of Path Loss and Signal Strength 
+--- https://pdfs.semanticscholar.org/2201/072e7e4d6b4fe2763f458abfeead9e5be90d.pdf
+#
+Radio coverage calculations of terrestrial wireless networks using an open-source GRASS system
+https://www.researchgate.net/publication/228990720_Radio_coverage_calculations_of_terrestrial_wireless_networks_using_an_open-source_GRASS_system
+#
+IEEE ---Year 2001 ---- http://www.ieee802.org/16/tg3/contrib/802163c-01_29r4.pdf
+https://www1.cse.wustl.edu/~jain/wimax/ftp/channel_model_tutorial.pdf
+IEEE --- Path Loss -- https://ieeexplore.ieee.org/document/5958490
+https://www.cl.cam.ac.uk/research/dtg/www/files/publications/public/vsa23/VTC05_Empirical.pdf
+Erceg Model -- https://nl.mathworks.com/matlabcentral/fileexchange/39322-erceg-model?s_tid=prof_contriblnk
+#
+UAV - LiDAR -- https://www.mdpi.com/2072-4292/12/6/986/html
+#
+Book chapter 
+6: MIMO channel modelling
+Mobile Broadband Multimedia Networks2006Pages 277-397
+Ernst Bonek, João Gil, Luis M. Correia, Robert J. C. Bultitude, Helmut Hofstetter
+Mobile Broadband Multimedia Networks
+Techniques, Models and Tools for 4G
+2006, Pages 277-397
+
+#
+#
+https://arxiv.org/abs/1002.2187
+Analysis of Large Scale Propagation Models for Mobile Communications in Urban Area
+Authors: M. A. Alim, M. M. Rahman, M. M. Hossain, A. Al Nahid 
+#
+#
+https://arxiv.org/abs/1110.1519
+Comparison of Radio Propagation Models for Long Term Evolution (LTE) Network
+Authors: Noman Shabbir, Muhammad T. Sadiq, Hasnain Kashif, Rizwan Ullah 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://wsl.stanford.edu/~ee359/greenshad.pdf
+
+
+https://nl.mathworks.com/matlabcentral/fileexchange/39318-imt-2000-models-outdoor-to-indoor-and-pedestrian-environment?s_tid=prof_contriblnk
+https://nl.mathworks.com/matlabcentral/fileexchange/39319-indoor-path-loss-models?s_tid=prof_contriblnk
+Free Space propagation path loss model -- https://nl.mathworks.com/matlabcentral/fileexchange/39291-free-space-propagation-path-loss-model?s_tid=prof_contriblnk
