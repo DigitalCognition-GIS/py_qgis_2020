@@ -39,6 +39,17 @@ https://arxiv.org/abs/1110.1519
 Comparison of Radio Propagation Models for Long Term Evolution (LTE) Network
 Authors: Noman Shabbir, Muhammad T. Sadiq, Hasnain Kashif, Rizwan Ullah 
 
+#
+#
+
+Comparision between okumura Hata and COST 231
+version 1.1.0.0 (1.58 KB) by Simerdeep Singh
+Two widely used empirical models: Okumura/Hata and COST 231 models.
+
+
+
+
+https://scholar.google.com/citations?hl=en&user=cPmMoXoAAAAJ&view_op=list_works&sortby=pubdate
 
 
 
@@ -49,11 +60,6 @@ Authors: Noman Shabbir, Muhammad T. Sadiq, Hasnain Kashif, Rizwan Ullah
 
 
 
-
-
-
-
-http://wsl.stanford.edu/~ee359/greenshad.pdf
 
 
 https://nl.mathworks.com/matlabcentral/fileexchange/39318-imt-2000-models-outdoor-to-indoor-and-pedestrian-environment?s_tid=prof_contriblnk
