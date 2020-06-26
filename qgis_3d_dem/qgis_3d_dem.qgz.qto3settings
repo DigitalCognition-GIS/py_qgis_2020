@@ -1,0 +1,54 @@
+{
+  "LAYERS": [
+    {
+      "geomType": 0,
+      "layerId": "N32E072_5917c564_05f9_4b9b_8f03_6ebf4118678e",
+      "name": "N32E072",
+      "properties": {
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Shading": true,
+        "checkBox_Sides": true,
+        "checkBox_Surroundings": false,
+        "checkBox_TransparentBackground": false,
+        "checkBox_Visible": true,
+        "colorButton_Color": "0x000000",
+        "comboBox_ClipLayer": null,
+        "comboBox_TextureSize": 100,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_ImageFile": "",
+        "radioButton_MapCanvas": true,
+        "spinBox_Opacity": 100,
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3,
+        "toolButton_SideColor": "0xccbbaa"
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "N32E074_efbd0f6f_9860_4336_90d9_71341d743f5b",
+      "name": "N32E074",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "N32E073_dc25955b_d41d_4c70_8a14_03dbdcdbd8b4",
+      "name": "N32E073",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "FLAT",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "OPT": {},
+  "OutputFilename": "/home/dhankar/_dc_all/QGIS_backUp/py_qgis_2020/qgis_3d_dem/Qgis2ThreeJS_Files/index.html",
+  "Template": "3DViewer(dat-gui).html",
+  "Title": "qgis_3d_dem1"
+}
