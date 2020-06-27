@@ -1,0 +1,19 @@
+https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i15!3i7!4i256!2m3!1e0!2sm!3i519233408!3m17!2sen-GB!3sIN!5e18!12m4!1e68!2m2!1sset!2sRoadmapSatellite
+!12m3!1e37!2m1!1ssmartmaps
+!12m4!1e26!2m2!1sstyles
+!2zcy50OjJ8cy5lOmx8cC52Om9mZixzLnQ6NXxzLmU6bHxwLnY6b2ZmLHMudDo0fHMuZTpsfHAudjpvZmY!4e0&
+key=AIzaSyBzvXU2lW6LxRKivaMSQmKhHk9HWh8xFvk&
+token=60937
+
+
+### URL for Image == JPEG Format == kh.jpeg
+https://khms1.googleapis.com/kh?v=871&hl=en-GB&gl=IN&x=15&y=7&z=4
+
+
+###### Seen below -- 2 URL's --- this string is Common == https://khms0.googleapis.com/kh?v=871&hl=en-GB&gl=IN&x=
+### URL for Image == JPEG Format == kh(1).jpeg
+https://khms0.googleapis.com/kh?v=871&hl=en-GB&gl=IN&x=6&y=5&z=4
+
+### URL for Image == JPEG Format == kh(2).jpeg
+https://khms0.googleapis.com/kh?v=871&hl=en-GB&gl=IN&x=2&y=2&z=3
+
