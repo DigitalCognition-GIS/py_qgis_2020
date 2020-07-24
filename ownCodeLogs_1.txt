@@ -1,12 +1,32 @@
+###Update - 5th JUL 20 ---
+# viewing the Pakistan EarthQuake LAZ File with LASTools using WINE the Windows Emulator on Ubuntu 
+
+# Size of the LAZ File == 870MB ( Even with my CPU this takes about 20-30 Seconds to render with LASTools)
+
+# Source of the LAZ File == https://portal.opentopography.org/lidarDataset?opentopoID=OTLAS.012018.32641.1&minX=64.083251953125&minY=26.103161262563873&maxX=65.665283203125&maxY=27.124657781761982
+
+# Local DIR File path = /home/dhankar/_dc_all/QGIS_backUp/py_qgis_2020/LAStools/data/ot_balochistan_2013_rupture_13.laz
+# LASTools LASView command == wine lasview -i /home/dhankar/_dc_all/QGIS_backUp/py_qgis_2020/LAStools/data/ot_balochistan_2013_rupture_13.laz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## The name “Quantum GIS” has no special meaning except that it starts with a “Q”, indicating that it uses the Qt library.
 ## To use the LAStools with QGIS on Ubuntu -- 
 https://rapidlasso.com/2014/10/04/using-lastools-on-mac-os-x-with-wine/
 https://github.com/rapidlasso/LAStoolsPluginQGIS3
 Open LIDAR DATA - https://cogp.maps.arcgis.com/apps/webappviewer/index.html?id=ab27788612864b5c8fe826a0d073b87f
 #
-
-
-
 
 https://www.qgis.org/en/site/forusers/alldownloads.html
 #
@@ -33,7 +53,6 @@ Results:
 
 Loading resulting layers
 Algorithm 'lasview' finished
-
 
 
 
