@@ -1,3 +1,6 @@
+<h1 align="center"> CODE MOVED HERE --- https://github.com/RohitDhankar/dcGIS </h1>
+
+
 
 <p align="center">
     <img src="https://github.com/DigitalCognition-GIS/py_qgis_2020/blob/master/ScreenCaptures_QGIS/Geospatial_Quadrants-2.jpg" width= "350px">
